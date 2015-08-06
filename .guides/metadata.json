@@ -1,0 +1,73 @@
+{
+ "sections": [
+  {
+   "id": "5174dfb4-6dc0-e60b-f8eb-764367455e2f",
+   "title": "Recap",
+   "files": [
+    {
+     "path": "#terminal: bashtest 6",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Recap-5174.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "6e9b283-4b8-57c1-7c3a-5510f0d1cfd",
+   "title": "What we'll learn",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/What-we-ll-learn-6e9b.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "8a8c85-bd44-eb5c-7d99-e7ed0b25c78",
+   "title": "Computer procceses",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Computer-procceses-8a8c.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "6d131930-10a2-788a-8bdf-34fb8c559919",
+   "title": "Real-world computer processes",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Real-world-computer-processes-6d13.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "b188098-d45d-d156-b160-b0d7f72efa6a",
+   "title": "The top command",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/The-top-command-b188.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "c23c4-ef8f-9a7-11aa-15b490343450",
+   "title": "Analysing the top command",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/New-Section-6-c23c.md",
+   "chapter": false,
+   "reset": []
+  }
+ ],
+ "theme": "light",
+ "scripts": []
+}
