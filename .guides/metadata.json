@@ -10,7 +10,7 @@
      "action": "open"
     }
    ],
-   "layout": "",
+   "layout": "2-panels-tree",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Recap-5174.md",
@@ -31,10 +31,11 @@
    "id": "8a8c85-bd44-eb5c-7d99-e7ed0b25c78",
    "title": "Computer procceses",
    "files": [],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Computer-procceses-8a8c.md",
-   "chapter": false,
+   "chapter": true,
    "reset": []
   },
   {
@@ -51,10 +52,11 @@
    "id": "b188098-d45d-d156-b160-b0d7f72efa6a",
    "title": "The top command",
    "files": [],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/The-top-command-b188.md",
-   "chapter": false,
+   "chapter": true,
    "reset": []
   },
   {
@@ -63,7 +65,73 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/New-Section-6-c23c.md",
+   "content-file": ".guides/content/Analysing-the-top-command-c23c.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "3f0f666a-ee5-2093-3543-3dc01727adbf",
+   "title": "Top command sorting",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Top-command-sorting-3f0f.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "f79251ed-45f2-5086-50d2-3c631ac6b5b1",
+   "title": "Challenge: Top command",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge--Top-command-f792.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "55dfd6f-412b-833-89d8-4d11e93a281f",
+   "title": "Background processes",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: ",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#terminal: ",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Background-processes-55df.md",
+   "chapter": true,
+   "reset": []
+  },
+  {
+   "id": "a5cbddbb-95f6-f0b4-ce99-ddf6dc8abc5c",
+   "title": "Comparing PID's",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Comparing-PID-s-a5cb.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "940bbbe3-f644-9ce8-1f70-4d4bc0e03583",
+   "title": "Foreground processes",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/New-Section-11-940b.md",
    "chapter": false,
    "reset": []
   }
