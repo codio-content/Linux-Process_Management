@@ -2,9 +2,9 @@ The `top` command is one fo the most intuitive CLI commands.
 
 For example, while the `top` command is still running, try pressing the `?` key to get more information about the usage of the command. 
 
-For instance, lets focus on the `F` option for sorting the program information. 
+For instance, lets focus on the `shift + f` option for sorting the program information. 
 
-Press the `F` key to get a list of possible sorting keys:
+Press the `shift + f` key to get a list of possible sorting keys:
 
 ```
 Current Sort Field:  A  for window 3:Mem 
@@ -25,4 +25,4 @@ Did the value change?
 
 The `top` command periodically updates the status of the processes and sorts them accordingly. 
 
-Quit the `top` command by pressing the `q` key or `ctrl + c`.
+__Quit the `top` command__ by pressing the `q` key or `ctrl + c`.

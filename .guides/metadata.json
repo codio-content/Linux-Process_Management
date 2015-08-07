@@ -131,8 +131,39 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/New-Section-11-940b.md",
+   "content-file": ".guides/content/Foreground-processes-940b.md",
    "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "1cf7357d-31ae-fb7b-be84-39e73fac73d6",
+   "title": "Challenge: processes",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/New-Section-13-1cf7.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "223bec5b-7a84-fdbe-1d58-f19f5464dd71",
+   "title": "Shell sessions",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: ",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels-tree",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Shell-sessions-223b.md",
+   "chapter": true,
    "reset": []
   }
  ],

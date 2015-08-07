@@ -8,7 +8,6 @@ Our assumptions can be supported by comparing both __terminal 1__ and __terminal
 ![cli6-top-cmd-terminals](.guides/img/cli6-top-cmd-terminals.png)
 <small>Note: _PID's may vary_</small>.
 
-T1 and T2 `top` command rows have different `PID` numbers. This indicator means that we are in fact running 2 different _top_ processes. Each of them can have its own sorting options and work independently from one another. 
+T1 and T2 `top` command rows have different `PID` numbers. This indicator means that we are in fact running 2 different `top` processes. Each of them can have its own sorting options and work independently from one another. 
 
-Have you tried selecting a different sorting key for one of the _top_ processes?
-
+Have you tried selecting a different sorting key for one of the `top` processes? The other _top_ process should not be interrupted.
