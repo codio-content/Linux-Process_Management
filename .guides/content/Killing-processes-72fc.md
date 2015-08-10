@@ -23,5 +23,6 @@ Lets `kill` the `loop.sh` process:
 3. Identify the `PID` number
 4. Execute: `kill <PID>` where `<PID>` is the `loop.sh` PID number
 
+---
 
 Additionaly, you can open the `count.txt` file to confirm the _loop count_ interruption.

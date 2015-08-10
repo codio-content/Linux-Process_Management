@@ -10,4 +10,8 @@ Our assumptions can be supported by comparing both __terminal 1__ and __terminal
 
 T1 and T2 `top` command rows have different `PID` numbers. This indicator means that we are in fact running 2 different `top` processes. Each of them can have its own sorting options and work independently from one another. 
 
+_Running processes_ are labelled with a letter `R` in the _S_ (process status) column. 
+
+---
+
 Have you tried selecting a different sorting key for one of the `top` processes? The other _top_ process should not be interrupted.
