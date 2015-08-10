@@ -5,7 +5,7 @@
    "title": "Recap",
    "files": [
     {
-     "path": "#terminal: bashtest 6",
+     "path": "#terminal: bashtest 6 | clear",
      "panel": 0,
      "action": "open"
     }
@@ -141,7 +141,7 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/New-Section-13-1cf7.md",
+   "content-file": ".guides/content/Challenge--processes-1cf7.md",
    "chapter": false,
    "reset": []
   },
@@ -154,7 +154,7 @@
      "action": "close"
     },
     {
-     "path": "#terminal: ",
+     "path": "#terminal: chmod +x ~/workspace/.guides/bashtests/loop.sh | clear",
      "panel": 0,
      "action": "open"
     }
@@ -164,6 +164,69 @@
    "type": "markdown",
    "content-file": ".guides/content/Shell-sessions-223b.md",
    "chapter": true,
+   "reset": []
+  },
+  {
+   "id": "9fd6ff-1bbd-d45c-6f29-340a36e128ff",
+   "title": "PS command",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/PS-command-9fd6.md",
+   "chapter": true,
+   "reset": []
+  },
+  {
+   "id": "2f93ba1c-ad1e-ca17-4f82-ed751c25773a",
+   "title": "Switching between processes",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Switching-between-processes-2f93.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "289281b9-5ea7-7972-7506-dfd50e83789",
+   "title": "Challenge: ps command",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge--ps-command-2892.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "7afd1f89-24b4-605-fe3f-7ab99770d3e3",
+   "title": "Bash & (ampersand) operator",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Bash----ampersand--operator-7afd.md",
+   "chapter": true,
+   "reset": []
+  },
+  {
+   "id": "72fc59f6-b56-7bb4-6276-b4bc2bdebf1d",
+   "title": "Killing processes",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Killing-processes-72fc.md",
+   "chapter": true,
+   "reset": []
+  },
+  {
+   "id": "c62eced7-e0e7-629-197e-69d64f7c940",
+   "title": "Challenge: kill command",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge--kill-command-c62e.md",
+   "chapter": false,
    "reset": []
   }
  ],

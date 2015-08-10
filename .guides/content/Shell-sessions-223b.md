@@ -1,18 +1,31 @@
 ## Running multiple _bash_ sessions in a single terminal
 
-So far, we've been using 2 different terminal windows in order to demonstrate 2 similar running processes that do not interrupt each other.
+_Bash_ itself is a command that can be executed on its own: `bash`
 
-__Shell sessions__ however, allow us to run multiple _bash_ processes __in a single terminal__.
+The `bash` command will create another _shell session_ which behaves as a separate terminal window because it becomes a foreground process. 
 
-Lets start another instance of the _bash_ program by executing: 
+Click on the terminal on the left and execute: 
 
 ```
 codio ~/workspace $ bash
 ```
 
-The command prompt should switch to something like this: 
+A new _bash session_ has been created. 
+
+For instance, we know this because the command prompt changed to something like this:
+  
+```
+# Prompt may vary from shell to shell:
+codio@couple-capital:~/workspace$
+```
+
+### Become more productive
+
+When working on a software project, sometimes we need to constantly `cd` into different directories. Different _bash sessions_ on a single terminal can hold different current directories. 
+
+Try navigating into the `config` directory in the current _bash session_: `cd config/`
 
 ```
-# @usernames may vary
-codio@couple-capital:~/workspace$
+# The prompt will display the current directory:
+codio@couple-capital:~/workspace/config$
 ```
