@@ -2,7 +2,7 @@
 
 The `chmod` command is a very powerful one. By determining the _read, write and execute_ permissions of a file hierarchy the owner decides _who_ is allowed to perform _what_ inside a directory. 
 
-### Different types of user
+### Different user types
 
 The way in that the _change mode_ command works is by specifying permissions or modes for the different types of users: 
 

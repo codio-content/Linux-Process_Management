@@ -1,4 +1,4 @@
-The `top` command is one fo the most intuitive CLI commands.
+The `top` command is one of the most intuitive CLI commands.
 
 For example, while the `top` command is still running, try pressing the `?` key to get more information about the usage of the command. 
 
