@@ -9,7 +9,7 @@ Whenever you switch from T1 to T2 or the other way around, the _Running_ process
 |||info
 ### Real world foreground processes
 
-Computer operating systems such as UNIX (Codio's terminal), Linux (An improvement on UNIX), Darwin (Mac's version of Linux) or Windows just to name a few; are designed to optimize the performance of software execution by delegating CPU and Memory power to the current running program or _foreground process_.
+Computer operating systems such as Unix, Linux (Codio's terminal and an improvement on Unix), Darwin (Mac's version of Linux) or Windows just to name a few; are designed to optimize the performance of software execution by delegating CPU and Memory power to the current running program or _foreground process_.
 
 Whenever your computer starts to feel slow or _out of the expected performance_, could be because one background process is taking too much of this CPU/MEM power.
 

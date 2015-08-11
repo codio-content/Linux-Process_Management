@@ -6,7 +6,7 @@ Graphical user interfaces or GUI such as the ones that Mac or Microsoft operatin
 
 ![cli6-task-managers](.guides/img/cli6-task-managers.png)
 
-### The Unix CLI equivalent
+### The Linux CLI equivalent
 
 Take web-servers as an example. The most common way to access a web-server (which is in fact a computer) is by using the CLI for they don't offer the same GUI's as other commercial systems.
 
