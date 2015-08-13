@@ -81,11 +81,11 @@
   },
   {
    "id": "f79251ed-45f2-5086-50d2-3c631ac6b5b1",
-   "title": "Challenge: Top command",
+   "title": "Challenge",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Challenge--Top-command-f792.md",
+   "content-file": ".guides/content/Challenge-f792.md",
    "chapter": false,
    "reset": []
   },
@@ -137,11 +137,11 @@
   },
   {
    "id": "1cf7357d-31ae-fb7b-be84-39e73fac73d6",
-   "title": "Challenge: processes",
+   "title": "Challenge",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Challenge--processes-1cf7.md",
+   "content-file": ".guides/content/Challenge-1cf7.md",
    "chapter": false,
    "reset": []
   },
@@ -189,11 +189,11 @@
   },
   {
    "id": "289281b9-5ea7-7972-7506-dfd50e83789",
-   "title": "Challenge: ps command",
+   "title": "Challenge",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Challenge--ps-command-2892.md",
+   "content-file": ".guides/content/Challenge-2892.md",
    "chapter": false,
    "reset": []
   },
@@ -221,11 +221,21 @@
   },
   {
    "id": "c62eced7-e0e7-629-197e-69d64f7c940",
-   "title": "Challenge: kill command",
+   "title": "Challenge",
    "files": [],
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Challenge--kill-command-c62e.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "884ad63-f809-d8c-5e65-3120f5b8f293",
+   "title": "End of unit",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/End-of-unit-884a.md",
    "chapter": false,
    "reset": []
   }
