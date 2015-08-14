@@ -225,13 +225,13 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Challenge--kill-command-c62e.md",
+   "content-file": ".guides/content/Challenge-c62e.md",
    "chapter": false,
    "reset": []
   },
   {
    "id": "884ad63-f809-d8c-5e65-3120f5b8f293",
-   "title": "End of unit",
+   "title": "That's all folks",
    "files": [],
    "path": [],
    "type": "markdown",
@@ -241,5 +241,6 @@
   }
  ],
  "theme": "light",
- "scripts": []
+ "scripts": [],
+ "lexikonTopic": ""
 }

@@ -1,3 +1,5 @@
 You Linux command line interface process management skills improve the performance of your computer.
 
-Learn how to create shell variables that will increase your Linux development skills in the next unit.
+
+
+This is the end of the _File Permissions and User Accounts_ unit. In the next unit you will learn how to manage system processes through the CLI.
