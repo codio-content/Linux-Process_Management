@@ -3,7 +3,7 @@ Computer processes are divided into 2 kinds:
 - Foreground processes
 - Background processes
 
-Lets understand the difference between both of them by executing the `sleep` command in the terminal screen. This command pauses the CLI during the specified amount of time:
+Let's understand the difference between both of them by executing the `sleep` command in the terminal screen. This command pauses the CLI during the specified amount of time:
 
 ```
 # Try typing or executing other commands during the 5 seconds pause:

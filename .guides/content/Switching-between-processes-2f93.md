@@ -6,7 +6,7 @@ _Suspended_ or _stopped_ processes are labelled with an uppercase `T`.
 
 Currently, our _stopped_ process is a _bash_ session left inside the `config/` directory. 
 
-Lets get back to the other _bash process_ by executing: 
+Let's get back to the other _bash process_ by executing: 
 
 ```
 codio ~/workspace $ fg
