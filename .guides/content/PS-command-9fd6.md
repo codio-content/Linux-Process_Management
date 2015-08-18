@@ -18,7 +18,7 @@ codio      466   359  0 03:17 pts/0    00:00:00 bash
 codio      469   466  0 03:17 pts/0    00:00:00 ps -f
 ```
 
-Two `bash` commands are currently on the list. Lets switch to the default _bash shell_ with the more familiar `codio ~/workspace $` prompt by executing: 
+Two `bash` commands are currently on the list. Let's switch to the default _bash shell_ with the more familiar `codio ~/workspace $` prompt by executing: 
 
 ```
 suspend

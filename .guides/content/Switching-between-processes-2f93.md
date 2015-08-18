@@ -12,7 +12,7 @@ Let's get back to the other _bash process_ by executing:
 codio ~/workspace $ fg
 ```
 
-The `fg` command switches from the _foreground process_ (the current bash session) and switches to the _suspended_ process. 
+The `fg` command switches from the _foreground process_ (the current bash session) to the _suspended_ process.
 
 ### Exiting processes
 

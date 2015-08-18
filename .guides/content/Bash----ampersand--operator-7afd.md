@@ -1,4 +1,4 @@
-### Putting long time taking commands in a background process
+### Putting processes in the background
 
 We've created a _bashscript_ that would take 30 seconds to complete. This _bashscript_ will: 
 

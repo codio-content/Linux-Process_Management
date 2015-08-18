@@ -14,4 +14,4 @@ The way in that the _change mode_ command works is by specifying permissions or 
 
 The __string permissions__ as they are commonly known are assigned to a file or directory by using the user type letters `ugo` and the permissions type letters `rwx` with the `+-` operands to add or remove permissions respectively.
 
-__Numerical mode assignment__ is another way of changing any file or file hierarchy permissions. The _read_ permission gets a value of `4`, the _write_ permission a value of `2` and the _execute_ permission a value of `1`. By adding this values to each of the user types we determine the system cappabilities that each of them have.
+__Numerical mode assignment__ is another way of changing any file or file hierarchy permissions. The _read_ permission gets a value of `4`, the _write_ permission a value of `2` and the _execute_ permission a value of `1`. By adding this values to each of the user types we determine the system capabilities that each of them have.
