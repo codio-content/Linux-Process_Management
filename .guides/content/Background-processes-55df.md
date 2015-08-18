@@ -1,6 +1,8 @@
 As we mentioned earlier, the shell does not have to wait for a background process to end before it can run more processes.
 
-We've enabled 2 terminal windows on the left panel. Lets understand _background processes_ by comparing the `top` command output between 2 terminal windows, each of them running a _top command_ process __in the same computer at the same time__.
+There's a terminal window enabled on the left panel (terminal 1). Open a new terminal window (terminal 2) by clicking on: _Tools > Terminal_. 
+
+Let's understand _background processes_ by comparing the `top` command output between 2 terminal windows, each of them running a _top command_ process __in the same computer at the same time__.
 
 On __*terminal 1*__ (choose the first terminal from left to right): 
 
