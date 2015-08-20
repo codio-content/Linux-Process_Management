@@ -9,7 +9,7 @@ __As a foreground process__, this process will totally block the current termina
 
 However, by adding the `&` _ampersand_ symbol, we can put the process to be executed __as a background process__ 
 
-Copy and paste the following code into the terminal and press the return key: 
+Copy and paste the following code into the terminal and press the return key (a `chmod` command was automatically executed on the terminal for allowing you to run the file):
 
 ```
 ~/workspace/.guides/bashtests/loop.sh &
