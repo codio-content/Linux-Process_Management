@@ -1,0 +1,149 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1128748206",
+  "source": {
+   "showName": true,
+   "answers": [
+    {
+     "correct": true,
+     "answer": "`e`",
+     "_id": "55c3d1caf9c468a446313a98"
+    },
+    {
+     "answer": "`x`",
+     "correct": false,
+     "_id": "55c3d1caf9c468a446313a97"
+    },
+    {
+     "answer": "`d`",
+     "correct": false,
+     "_id": "55c3d1caf9c468a446313a96"
+    },
+    {
+     "answer": "`k`",
+     "correct": false,
+     "_id": "55c3d1caf9c468a446313a95"
+    }
+   ],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Top command",
+   "instructions": "Please select the correct answer and _Check it!_ to have your answer assessed. If you are wrong, you will see the correct answer highlighted:\n\n#### Select the top command key that sorts the proccesses by user:",
+   "points": 1,
+   "incorrectPoints": 0,
+   "multipleResponse": false
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1752129463",
+  "source": {
+   "showName": true,
+   "answers": [
+    {
+     "answer": "UID",
+     "correct": false,
+     "_id": "55c82088f9c468a446313ac4"
+    },
+    {
+     "correct": true,
+     "answer": "PID",
+     "_id": "55c82088f9c468a446313ac3"
+    },
+    {
+     "answer": "Process status",
+     "correct": false,
+     "_id": "55c82088f9c468a446313ac2"
+    },
+    {
+     "answer": "Command name",
+     "correct": false,
+     "_id": "55c82088f9c468a446313ac1"
+    }
+   ],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Killing processes",
+   "instructions": "The `kill` command accepts one or more arguments in order to indicate which command should be _terminated_. \n\nPlease answer this question and _Check it!_ to have your answer assessed. If you are wrong, you will see the correct answer highlighted:\n\n#### What is the most common process indicator used as a `kill` command argument?",
+   "points": 1,
+   "incorrectPoints": 0,
+   "multipleResponse": false
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2664360902",
+  "source": {
+   "showName": true,
+   "answers": [
+    {
+     "correct": true,
+     "answer": "Background jobs are generally run at lower priority than foreground jobs.",
+     "_id": "55c4d1739dfd6e6f7471f438"
+    },
+    {
+     "answer": "The user must wait for one foreground process to complete before running another one.",
+     "correct": true,
+     "_id": "55c4d1739dfd6e6f7471f437"
+    },
+    {
+     "correct": true,
+     "answer": "Unlike background jobs, foreground processes may present an interactive graphical user interface.",
+     "_id": "55c4d8e5f9c468a446313ab2"
+    }
+   ],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Bg and Fg processes",
+   "instructions": "Please select one or more correct answers and _Check it!_ to have your answer assessed. If you are wrong, you will see the correct answer highlighted:\n\n#### What is true about the differences between background and foreground processes? (check more than one possible option)",
+   "points": 1,
+   "incorrectPoints": 0,
+   "multipleResponse": true
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-4125100822",
+  "source": {
+   "showName": true,
+   "answers": [
+    {
+     "answer": "S",
+     "correct": false,
+     "_id": "55c81917f9c468a446313abf"
+    },
+    {
+     "answer": "R",
+     "correct": false,
+     "_id": "55c81917f9c468a446313abe"
+    },
+    {
+     "correct": true,
+     "answer": "T",
+     "_id": "55c81917f9c468a446313abd"
+    },
+    {
+     "answer": "Z",
+     "correct": false,
+     "_id": "55c81917f9c468a446313abc"
+    }
+   ],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Process status",
+   "instructions": "Please select the correct answer and _Check it!_ to have your answer assessed. If you are wrong, you will see the correct answer highlighted:\n\n#### `top` command stopped or suspended processes are labelled with a letter: ",
+   "points": 1,
+   "incorrectPoints": 0,
+   "multipleResponse": false
+  }
+ }
+]

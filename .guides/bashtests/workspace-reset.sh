@@ -12,7 +12,7 @@ function init_workspace {
 }
 
 function reset_workspace {
-	rm -r ${WORKSPACE}config
+  rm -r ${WORKSPACE}config
   rm -r ${WORKSPACE}count.txt
   > ~/.bash_history
 	echo "Reseting project files and directories"
