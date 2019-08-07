@@ -1,0 +1,137 @@
+{
+ "name": "Linux-Process_Management",
+ "children": [
+  {
+   "title": "Recap",
+   "id": "5174dfb4-6dc0-e60b-f8eb-764367455e2f",
+   "pageId": "5174dfb4-6dc0-e60b-f8eb-764367455e2f",
+   "type": "page"
+  },
+  {
+   "title": "What we'll learn",
+   "id": "6e9b283-4b8-57c1-7c3a-5510f0d1cfd",
+   "pageId": "6e9b283-4b8-57c1-7c3a-5510f0d1cfd",
+   "type": "page"
+  },
+  {
+   "title": "Computer procceses",
+   "id": "8a8c85-bd44-eb5c-7d99-e7ed0b25c78",
+   "pageId": "8a8c85-bd44-eb5c-7d99-e7ed0b25c78",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Real-world computer processes",
+     "id": "6d131930-10a2-788a-8bdf-34fb8c559919",
+     "pageId": "6d131930-10a2-788a-8bdf-34fb8c559919",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "The top command",
+   "id": "b188098-d45d-d156-b160-b0d7f72efa6a",
+   "pageId": "b188098-d45d-d156-b160-b0d7f72efa6a",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Analysing the top command",
+     "id": "c23c4-ef8f-9a7-11aa-15b490343450",
+     "pageId": "c23c4-ef8f-9a7-11aa-15b490343450",
+     "type": "page"
+    },
+    {
+     "title": "Top command sorting",
+     "id": "3f0f666a-ee5-2093-3543-3dc01727adbf",
+     "pageId": "3f0f666a-ee5-2093-3543-3dc01727adbf",
+     "type": "page"
+    },
+    {
+     "title": "Challenge",
+     "id": "f79251ed-45f2-5086-50d2-3c631ac6b5b1",
+     "pageId": "f79251ed-45f2-5086-50d2-3c631ac6b5b1",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Background processes",
+   "id": "55dfd6f-412b-833-89d8-4d11e93a281f",
+   "pageId": "55dfd6f-412b-833-89d8-4d11e93a281f",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Comparing PID's",
+     "id": "a5cbddbb-95f6-f0b4-ce99-ddf6dc8abc5c",
+     "pageId": "a5cbddbb-95f6-f0b4-ce99-ddf6dc8abc5c",
+     "type": "page"
+    },
+    {
+     "title": "Foreground processes",
+     "id": "940bbbe3-f644-9ce8-1f70-4d4bc0e03583",
+     "pageId": "940bbbe3-f644-9ce8-1f70-4d4bc0e03583",
+     "type": "page"
+    },
+    {
+     "title": "Challenge",
+     "id": "1cf7357d-31ae-fb7b-be84-39e73fac73d6",
+     "pageId": "1cf7357d-31ae-fb7b-be84-39e73fac73d6",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Shell sessions",
+   "id": "223bec5b-7a84-fdbe-1d58-f19f5464dd71",
+   "pageId": "223bec5b-7a84-fdbe-1d58-f19f5464dd71",
+   "type": "chapter",
+   "children": []
+  },
+  {
+   "title": "PS command",
+   "id": "9fd6ff-1bbd-d45c-6f29-340a36e128ff",
+   "pageId": "9fd6ff-1bbd-d45c-6f29-340a36e128ff",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Switching between processes",
+     "id": "2f93ba1c-ad1e-ca17-4f82-ed751c25773a",
+     "pageId": "2f93ba1c-ad1e-ca17-4f82-ed751c25773a",
+     "type": "page"
+    },
+    {
+     "title": "Challenge",
+     "id": "289281b9-5ea7-7972-7506-dfd50e83789",
+     "pageId": "289281b9-5ea7-7972-7506-dfd50e83789",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Bash & (ampersand) operator",
+   "id": "7afd1f89-24b4-605-fe3f-7ab99770d3e3",
+   "pageId": "7afd1f89-24b4-605-fe3f-7ab99770d3e3",
+   "type": "chapter",
+   "children": []
+  },
+  {
+   "title": "Killing processes",
+   "id": "72fc59f6-b56-7bb4-6276-b4bc2bdebf1d",
+   "pageId": "72fc59f6-b56-7bb4-6276-b4bc2bdebf1d",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Challenge",
+     "id": "c62eced7-e0e7-629-197e-69d64f7c940",
+     "pageId": "c62eced7-e0e7-629-197e-69d64f7c940",
+     "type": "page"
+    },
+    {
+     "title": "That's all folks",
+     "id": "884ad63-f809-d8c-5e65-3120f5b8f293",
+     "pageId": "884ad63-f809-d8c-5e65-3120f5b8f293",
+     "type": "page"
+    }
+   ]
+  }
+ ]
+}
